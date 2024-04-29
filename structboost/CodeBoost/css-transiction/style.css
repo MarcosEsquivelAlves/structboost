@@ -1,0 +1,12 @@
+button {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  color: white;
+  transition:width 1s;
+  margin-top: 200px;
+  margin-left: 200px;
+}
+button:hover {
+ width: 400px;
+}
